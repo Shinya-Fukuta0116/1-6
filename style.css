@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main-visual {
+  height: 200px;
+  background-image: url(box1.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.main-visual-text {
+  color: #fff; /* 文字色を白に変更 */
+  font-size: 30px;
+  font-style: oblique;
+  text-align: center;
+}
+
+.main-visual1 {
+  height: 200px;
+  background-image: url(box2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.main-visual2 {
+  height: 200px;
+  background-image: url(box3.jpg);
+  background-size: cover;
+  background-position: center;
+}
+.main-visual3 {
+  height: 200px;
+  background-image: url(box4.jpg);
+  background-size: cover;
+  background-position: center;
+}
